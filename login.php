@@ -7,7 +7,7 @@
  }
  else
  {
- $loginName = "Login Failed";
+ $loginName = "welcome";
  }
 ?>
 <!DOCTYPE html>
@@ -27,7 +27,7 @@
 </section>
 </article>
 <footer>
-Developed by K Anbarasan
+Developed by s mohamedlafir
 </footer>
 </body>
 </html>
